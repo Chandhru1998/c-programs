@@ -1,10 +1,3 @@
-/*
-Name:
-Date:
-Description:
-sample i/p:
-sample o/p:
-*/
 #include<stdio.h>
 int fibo(int f);
 int main()
